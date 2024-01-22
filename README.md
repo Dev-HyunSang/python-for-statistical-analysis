@@ -25,5 +25,13 @@ Python 3.11.7
 brew install --cask anaconda
 # and
 brw instal --cask miniconda
-```
+#  install jupyter notebook
+pip3 install --upgrade pip
+pip3 install jupyter
+# start jupyter notebook
+jupyter notebook
+[I 2024-01-22 13:33:20.518 ServerApp] Jupyter Server 2.12.5 is running at:
+[I 2024-01-22 13:33:20.518 ServerApp] http://localhost:8888/tree?token=f7fad7081c0597a8218c4d28727e73596fab4f08cce6bb97
+[I 2024-01-22 13:33:20.518 ServerApp]     http://127.0.0.1:8888/tree?token=f7fad7081c0597a8218c4d28727e73596fab4f08cce6bb97
+[I 2024-01-22 13:33:20.518 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 ```
